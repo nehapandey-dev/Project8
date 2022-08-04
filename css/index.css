@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-style: none;
+    font-family: 'Roboto';
+}
+
+.nav-item {
+    display: inline;
+    justify-items: center;
+    position: relative;
+    left: 400px;
+    top: 30px;
+    padding: 120px 20px;
+}
+
+img[alt='logo'] {
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    width: 75px;
+}
+
+.signin-btn {
+    float: right;
+    position: relative;
+    top: 20px;
+    left: 660px;
+    width: 90px;
+    height: 25px;
+    border-radius: 12px;
+    background-image: linear-gradient(90deg, rgb(88, 10, 161), rgb(233, 104, 205));
+    color: white;
+}
+
+img[alt='vector-img'] {
+    position: absolute;
+    left: 600px;
+    top: 450px;
+}
+
+img[alt='vector-dot'] {
+    position: absolute;
+    left: 660px;
+    top: 460px;
+}
+
+.main-div {
+    position: absolute;
+    z-index: 2;
+}
+
+img[alt='intro-img'] {
+    float: right;
+    width: 520px;
+    height: 650px;
+    position: absolute;
+    top: 12%;
+    left: 650px;
+
+}
+
+.left-section {
+    max-width: 400px;
+    line-height: 30px;
+    margin-top: 150px;
+    margin-left: 90px;
+}
+
+h1 {
+    font-size: 70px;
+    height: 70px;
+    font-weight: bold;
+    color: rgb(48, 48, 86);
+}
+
+h4 {
+    font-size: smaller;
+    font-style: normal;
+    color: rgb(121, 118, 118);
+    margin-bottom: 40px;
+}
+
+.learn-more-btn {
+    width: 220px;
+    height: 50px;
+    font-size: larger;
+    background-image: linear-gradient(90deg, rgb(88, 10, 161), rgb(233, 104, 205));
+    color: white;
+    border-radius: 22px;
+}
