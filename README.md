@@ -4,16 +4,18 @@ Hello there it's Neha Pandey.
 ### Project 8 is about Digital Marketing home page.
 
 ## Challenges
-In this project i had to design in css and i learnt so much in this project like:
+In this project i had to design and apply media query in css and i learnt so much in this project like:
+- media screen min and max
 - font-size
-- use of liner-gradient (to right, to left ,deg)
+- used liner-gradient (to right, to left or deg) to change backgroung color of body
 - width and height of image
 - selectors
 - margin and padding
+- position
 
-### ## Total time to complete this project
+### Total time to complete this project
 
-It took 3.5 hours to complete this project in 3.5 hours.
+It took me 6 hours to complete this project.
 
 
-![Image](./project8-img.png)
+![Image](./project8%20-img.png)
